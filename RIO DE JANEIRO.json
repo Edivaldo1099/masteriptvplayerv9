@@ -1,27 +1,50 @@
 [
   {
+    "id": "cbn_rj",
+    "name": "CBN Rio de Janeiro 92.5 FM",
+    "type": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ.mp3",
+    "icon": "https://img.radios.com.br/radio/md/radio8819_1573682766.jpg",
+    "city": "Rio De Janeiro - RJ",
+    "state": "RJ",
+    "category": "rj",
+    "frequency": "92.5 FM",
+    "letter": "C"
+  },
+  {
+    "id": "fm_o_dia",
+    "name": "FM O Dia 100.5",
+    "type": "radio",
+    "url": "https://streaming.livespanel.com:8016/fmodia",
+    "icon": "https://img.radios.com.br/radio/lg/radio13213_1705409045.jpeg",
+    "city": "Rio De Janeiro - RJ",
+    "state": "RJ",
+    "category": "rj",
+    "frequency": "100.5 FM",
+    "letter": "F"
+  },
+  {
     "id": "hitsfm106.9",
     "name": "Hits Fm 106.9",
     "type": "radio",
     "url": "http://wz7.servidoresbrasil.com:8031/stream",
     "icon": "https://redehits.fm/wp-content/uploads/2024/03/Logo-Perfil.png",
-    "city": "Macaé",
+    "city": "Macaé - RJ",
     "state": "RJ",
     "category": "rj",
     "frequency": "92.9 FM",
     "letter": "H"
   },
   {
-    "id": " ",
-    "name": " ",
+    "id": "radiogloborj",
+    "name": "Rádio Globo RJ 98.1 FM",
     "type": "radio",
-    "url": " ",
-    "icon": " ",
-    "city": " ",
-    "state": " ",
-    "category": " ",
-    "frequency": " ",
-    "letter": " "
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJ.mp3",
+    "icon": "https://img.radios.com.br/radio/md/radio8817_1676300226.png",
+    "city": "Rio De Janeiro",
+    "state": "RJ",
+    "category": "rj",
+    "frequency": "98.1 FM",
+    "letter": "G"
   }
 ]
-
