@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mirante96.1fm",
+    "name": "Rádio Mirante 96.1 FM",
+    "type": "radio",
+    "url": "https://mirante2.jmvstream.com/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio13935_1744986574.png",
+    "city": "São Luís",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "96.1 FM",
+    "letter": "M"
+  },
+  {
+    "id": "radiobacabal93.1fm",
+    "name": "Rádio Bacabal 93.1 FM",
+    "type": "radio",
+    "url": "http://stm7.xcast.com.br:12432/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio42603_1683298791.jpg",
+    "city": "Bacabal",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "93.1 FM",
+    "letter": "B"
+  },
+  {
+    "id": "jovempan",
+    "name": "Rádio Jovem Pan 102.5 FM",
+    "type": "radio",
+    "url": "https://radio02.zas.media/proxy/jovempansaoluis/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio16168_1674831310.jpg",
+    "city": "São Luís",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "102.5 FM",
+    "letter": "J"
+  },
+  {
+    "id": "radiopinheiro",
+    "name": "Rádio Pinheiro 103.3 FM",
+    "type": "radio",
+    "url": "http://stm15.betelhost.com.br:9050/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio185009_1626443891.jpg",
+    "city": "Pinheiro",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "103.3 FM",
+    "letter": "P"
+  },
+]
