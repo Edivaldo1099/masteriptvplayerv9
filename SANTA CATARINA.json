@@ -1,0 +1,26 @@
+[
+  {
+    "id": "radiocacador92.9FM",
+    "name": "Rádio Caçador 92.9 FM",
+    "type": "radio",
+    "url": "https://wz7.servidoresbrasil.com:10410/stream",
+    "icon": "https://fm929.com.br/wp-content/uploads/2025/02/logo-radio-92.jpg",
+    "city": "Caçador",
+    "state": "SC",
+    "category": "sc",
+    "frequency": "92.9 FM",
+    "letter": "C"
+  },
+  {
+    "id": " ",
+    "name": " ",
+    "type": "radio",
+    "url": " ",
+    "icon": " ",
+    "city": " ",
+    "state": " ",
+    "category": " ",
+    "frequency": " ",
+    "letter": " "
+  }
+]
